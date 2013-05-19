@@ -3,7 +3,7 @@ transitionend event for YUI
 
 ![Travis Build Status](https://api.travis-ci.org/juandopazo/yui3-transitionend.png)
 
-Adds cross-browser detection for the `transitionend` event.
+YUI cross-browser detection for the `transitionend` event.
 
 Getting Started
 ---------------
