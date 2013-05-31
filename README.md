@@ -12,7 +12,7 @@ Create a new YUI instance for your application and populate it with the modules 
 
 ```javascript
 YUI({
-    gallery: '{latestgallery}'
+    gallery: 'gallery-2013.05.29-23-38'
 }).use('gallery-transitionend', function (Y) {
 
     if (Y.support.transitionend) {
